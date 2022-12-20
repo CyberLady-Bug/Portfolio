@@ -17,11 +17,11 @@ On this page I would like to share all my experiences.
   - Software testing
   - Creating test cases
   - Reporting bugs
-  - TestLink obsługa
-  - Postman REST API  początkujący
-  - SQL  w trakcie nauki
-  - DevTools w trakcie nauki
-  - SCRUM w trakcie nauki 
+  - TestLink in progress
+  - Postman REST API  in progress
+  - SQL  in progress
+  - DevTools in progress
+  - SCRUM in progress
 # Certificates
   - [ISTQB](https://drive.google.com/file/d/1xIsT1Ga4BMsfWFTR6Q4_WbErPq-rnk-p/view?usp=share_link) - No.18755
   - [Testuj.pl](https://drive.google.com/file/d/1HpfCNilP2ghEnEtT84DEhRUOMGHqEVpx/view?usp=share_link)
@@ -35,7 +35,6 @@ On this page I would like to share all my experiences.
   - R.Smilgin - Zawód tester
   - A.Roman L. Stapp - Certyfikowany tester ISTQB
   - K. Pawłowska N. Pawlak - Podróż przez świat testowania
-  - k. Jadczyk - Pasja testowania
 # Recommended blogs
   - testuj.pl - Test, Bugs & Rock'n'Roll
   - testerzy.pl
@@ -51,9 +50,4 @@ On this page I would like to share all my experiences.
  
 # My projects
  
-  - Individual project - testing site
-     - [Report]
-     - [Test cases]
-     - [Test cases - regression testing]
-     - [Mind map]
 
