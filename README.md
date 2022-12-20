@@ -4,8 +4,8 @@
 My name is Monika Guzik-Skirzyńska.
 I graduated from the Jagiellonian University with a master's degree in Polish studies: literary studies and grammar.
 I also completed postgraduate studies at the University of Rzeszów, majoring in Music.
-Recently, I started to be interested in software testing.
-My goal is to develop testing knowledge and technical skills related to the IT industry. I am also interested in programming.
+Recently, I started to be interested in software testing. I am also interested in programming.
+My goal is to develop testing knowledge and technical skills related to the IT industry. 
 On this page I would like to share all my experiences.
 # Tools
   - [ScreenPresso](https://www.screenpresso.com/) - Screen capture software
