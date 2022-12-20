@@ -24,7 +24,7 @@ On this page I would like to share all my experiences.
   - SCRUM w trakcie nauki 
 # Certificates
   - [ISTQB](https://drive.google.com/file/d/1xIsT1Ga4BMsfWFTR6Q4_WbErPq-rnk-p/view?usp=share_link) - No.18755
-  - [Testuj.pl] https://drive.google.com/file/d/1HpfCNilP2ghEnEtT84DEhRUOMGHqEVpx/view?usp=share_link)
+  - [Testuj.pl](https://drive.google.com/file/d/1HpfCNilP2ghEnEtT84DEhRUOMGHqEVpx/view?usp=share_link)
   - [Udemy](https://udemy-certificate.s3.amazonaws.com/image/UC-0ff94f22-a860-42da-b0d7-99cc6e518995.jpg)
   - [Udemy](https://udemy-certificate.s3.amazonaws.com/image/UC-eaec5135-938d-45da-989f-906c06a2e07d.jpg)
 # Courses
