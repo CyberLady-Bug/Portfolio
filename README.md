@@ -7,3 +7,5 @@ I also completed postgraduate studies at the University of Rzeszów, majoring in
 Recently, I started to be interested in software testing.
 My goal is to develop testing knowledge and technical skills related to the IT industry. I am also interested in programming.
 On this page I would like to share all my experiences.
+# Certificates
+ISTQB FL No.18755
