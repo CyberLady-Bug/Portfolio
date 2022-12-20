@@ -1,5 +1,5 @@
 # Portfolio
-# My Tester's Porfolio
+# My Tester's Portfolio
 # About me
 My name is Monika Guzik-Skirzyńska.
 I graduated from the Jagiellonian University with a master's degree in Polish studies: literary studies and grammar.
@@ -18,11 +18,11 @@ On this page I would like to share all my experiences.
   - Software testing
   - Creating test cases
   - Reporting bugs
-  - TestLink in progress
-  - Postman REST API  in progress
-  - SQL  in progress
-  - DevTools in progress
-  - SCRUM in progress
+  - TestLink   in progress
+  - Postman REST API    in progress
+  - SQL    in progress
+  - DevTools   in progress
+  - SCRUM   in progress
 # Certificates
   - [ISTQB](https://drive.google.com/file/d/1xIsT1Ga4BMsfWFTR6Q4_WbErPq-rnk-p/view?usp=share_link) - No.18755
   - [Testuj.pl](https://drive.google.com/file/d/1HpfCNilP2ghEnEtT84DEhRUOMGHqEVpx/view?usp=share_link)
