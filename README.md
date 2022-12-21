@@ -18,7 +18,7 @@ On this page I would like to share all my experiences.
   - Software testing
   - Creating test cases
   - Reporting bugs
-  - TestLink   in progress
+  - TestLink  
   - Postman REST API    in progress
   - SQL    in progress
   - DevTools   in progress
