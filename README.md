@@ -23,6 +23,9 @@ On this page I would like to share all my experiences.
   - SQL    in progress
   - DevTools   in progress
   - SCRUM   in progress
+  - HTML  in progress
+  - CSS   in progress
+  - JS  in progress
 # Certificates
   - [ISTQB](https://drive.google.com/file/d/1xIsT1Ga4BMsfWFTR6Q4_WbErPq-rnk-p/view?usp=share_link) - No.18755
   - [Testuj.pl](https://drive.google.com/file/d/1HpfCNilP2ghEnEtT84DEhRUOMGHqEVpx/view?usp=share_link)
