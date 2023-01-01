@@ -39,6 +39,7 @@ On this page I would like to share all my experiences.
   - R.Smilgin - Zawód tester
   - A.Roman L. Stapp - Certyfikowany tester ISTQB
   - K. Pawłowska N. Pawlak - Podróż przez świat testowania
+  - R.J. Yarger, G. Reese, T. King - MySQL i mSQL 
 # Recommended blogs
   - testuj.pl - Test, Bugs & Rock'n'Roll
   - testerzy.pl
